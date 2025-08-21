@@ -1,6 +1,4 @@
 
-
-```markdown
 # Задание - Vue Calendar Component
 
 ## Описание
